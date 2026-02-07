@@ -11,19 +11,19 @@ This repository is created to share our findings. Our findings are also availabl
 ## Project Outline
 
 ### Data Gathering
-We aim to collect data on bird counts from eBird, one of the largest projects ever to track bird sightings. Climate, natural disaster, and urban data will be gathered from government agencies. 
+We will collect data on bird counts from eBird, one of the largest projects ever to track bird sightings. Climate, natural disaster, and urban data will be gathered from government agencies. 
 
 ### Data Preprocessing
-Then, the data will be cleaned and preprocessed to improve its accuracy and completeness and ensure that it is in a proper format for analysis.
+The data will be cleaned and preprocessed to improve its accuracy and completeness and ensure that it is in a proper format for analysis.
 
 ### Exploratory Data Analysis
-Exploratory data analysis will be done to investigate the variables and identify which features to be used for further analysis, performing feature transformations as required. 
+Exploratory data analysis will be done to investigate our data set and identify which variables to use as features for further analysis, performing transformations as required. 
 
 ### Data Visualization
-Visualizations would be created to show insights from the given features. Then, different classes of machine learning models will be run against the preprocessed data for different purposes. 
+Visualizations will be created to show insights derived from the identified features. Then, different classes of machine learning models will be run against the preprocessed data for different purposes. 
 
 ### Data Modeling
-Clustering models can identify geographic regions of interest and groups of bird species with similar characteristics. Classification models can indicate if an area is safe or dangerous, if a species is threatened or not. Regression models can identify the variables that have the strongest relationships with bird count changes in a location. Frequent Pattern Mining can predict the future state of a species.
+Clustering models will be used to identify geographic regions of interest and groups of bird species with similar characteristics. Classification models will be used to categorize areas as safe or dangerous for sanctuary establishment, and categorize species as threatened or not. Regression models will be used to identify the variables that have the strongest relationships with bird count changes in a location. Frequent Pattern Mining will be used to predict the future state of a species.
 
 ### Reporting
-Finally, we will produce a report containing the findings on which are the most important factors to consider when designating an area as a bird habitat, and the implications of our analysis.
+We will produce a report containing the findings on which are the most important factors to consider when designating an area as a bird habitat, and the implications of our analysis.
