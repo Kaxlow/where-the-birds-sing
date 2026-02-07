@@ -1,12 +1,12 @@
 # Data Mining to Find Safe Habitats for Birds
 Our team aims to identify the most important factors to consider when choosing where to build a new bird sanctuary in Colorado. Our analysis includes data on bird counts from [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) as well as external factors such as climate data from [NCEI](https://www.ncdc.noaa.gov/cdo-web/webservices/v2), natural disaster data from [FEMA](https://www.fema.gov/about/openfema/api), and urban population data from the [American Community Survey](https://www.census.gov/programs-surveys/acs/data/data-via-api.html). The goal of the analysis is to finding meaningful patterns and relationships from the data associated with bird counts throughout Colorado at different times of the year, and try to predict the future of bird species in Colorado.
 
-This repository is created to share our findings. Our findings are also available at **[our project website](https://melissazuch.wixsite.com/where-the-birds-sing)**
+This repository is created to share our findings. Our findings are also available at **[our project website](https://melissazuch.wixsite.com/where-the-birds-sing)**.
 
 ## The Team
-Ken Low - Modeling Lead
-Kyla McGregor - Data Lead
-Melissa Zuch - Website and Data Visualization Lead
+- Ken Low - Modeling Lead
+- Kyla McGregor - Data Lead
+- Melissa Zuch - Website and Data Visualization Lead
 
 ## Project Outline
 
